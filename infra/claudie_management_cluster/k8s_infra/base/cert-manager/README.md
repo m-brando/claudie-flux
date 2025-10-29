@@ -1,0 +1,2 @@
+# Cert-manager
+The cert-manager.yaml file was downloaded from https://github.com/cert-manager/cert-manager/releases/download/v1.12.0/cert-manager.yaml as defined in claudie [doc](https://docs.claudie.io/latest/getting-started/get-started-using-claudie/)
